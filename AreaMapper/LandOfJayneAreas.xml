@@ -1,0 +1,30 @@
+<AreaDefinition id="470622876" name="box_470622875" shape="sphere" x1="51.541817" y1="1.166348" z1="-35.119141" radius="1.030000">
+    <Property type="Interaction" id="732762874" ProxyID="180015" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="1968253379" name="sphere_1968253378" shape="sphere" x1="41.149120" y1="0.952826" z1="-24.431904" radius="1.160002">
+    <Property type="Thrust - Launcher" id="2660362581" />
+</AreaDefinition>
+<AreaDefinition id="2368103359" name="sphere_2368103358" shape="sphere" x1="49.081211" y1="0.952826" z1="-21.063534" radius="1.160002">
+    <Property type="Thrust - Chain" id="2550391585" VelocityMult="0.00" JumpHeight="0.00" FacSpawnId="0" ReqSetId="2160165944" NextChainId="2156655560" />
+</AreaDefinition>
+<AreaDefinition id="2761127468" name="box_2761127467" shape="box" x1="33.850754" y1="0.230421" z1="-35.085667" x2="35.720757" y2="12.670427" z2="-33.295666" rotX="-0.000000" rotY="3.141593" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2857053983" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="700748435" name="box_700748434" shape="box" x1="19.453423" y1="-0.077362" z1="-33.799274" x2="21.323425" y2="19.922638" z2="-32.009274" rotX="-0.000000" rotY="1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2857053983" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="700748437" name="box_700748436" shape="box" x1="19.453423" y1="-0.090553" z1="-42.508610" x2="21.323425" y2="29.909447" z2="-40.718609" rotX="-0.000000" rotY="0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2857053983" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="808489208" name="box_808489207" shape="box" x1="19.453423" y1="0.024078" z1="-49.275093" x2="21.323425" y2="8.024078" z2="-47.485092" rotX="-0.000000" rotY="0.523599" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2857053983" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="808489210" name="box_808489209" shape="box" x1="19.453423" y1="-0.037693" z1="-56.839497" x2="21.323425" y2="49.962307" z2="-55.049496" rotX="-0.000000" rotY="0.000000" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2857053983" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="3629200172" name="box_3629200171" shape="sphere" x1="94.903297" y1="1.128874" z1="-13.693977" radius="1.030000">
+    <Property type="Interaction" id="229262874" ProxyID="180016" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="4065903384" name="box_4065903384" shape="box" x1="215.729019" y1="-13.150005" z1="-21.093792" x2="239.899033" y2="13.150005" z2="27.156231" rotX="-0.000000" rotY="0.000000" rotZ="0.000000">
+    <Property type="RandomEffect" id="2352356088" CompositeEffectDefId="0" MinDistance="1.000000" MaxDistance="5.000000" MinFrequency="3.000000" MaxFrequency="15.000000" OnlyPlaceInFrontOfCamera="1" PlaceOnGround="1" AreaRelative="1" />
+</AreaDefinition>

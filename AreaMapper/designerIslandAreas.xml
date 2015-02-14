@@ -1,0 +1,165 @@
+<AreaDefinition id="2548742845" name="box_2548742844" shape="box" x1="216.908463" y1="56.893951" z1="1063.953735" x2="219.598465" y2="63.233948" z2="1066.823853" rotX="-0.000000" rotY="-1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="4079798660" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="2548742847" name="box_2548742846" shape="box" x1="252.160797" y1="56.893951" z1="1078.880127" x2="254.890808" y2="63.233948" z2="1081.680176" rotX="-0.000000" rotY="1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="4079798660" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="2548742849" name="box_2548742848" shape="box" x1="215.971115" y1="6.857910" z1="1062.839233" x2="255.971115" y2="11.857910" z2="1082.839233" rotX="-0.000000" rotY="0.000000" rotZ="0.000000" />
+<AreaDefinition id="425947141" name="sphere_425947140" shape="sphere" x1="218.709824" y1="50.000000" z1="1162.334595" radius="30.000000">
+    <Property type="Exclusive" id="2890131875" />
+</AreaDefinition>
+<AreaDefinition id="2247008253" name="box_2247008252" shape="box" x1="322.193756" y1="6.893950" z1="1391.240845" x2="324.883759" y2="13.233950" z2="1394.110962" rotX="-0.000000" rotY="-1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="4079798660" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="2247008255" name="box_2247008254" shape="box" x1="357.446106" y1="6.893950" z1="1406.167236" x2="360.176086" y2="13.233950" z2="1408.967285" rotX="-0.000000" rotY="1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="4079798660" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="2247008257" name="box_2247008256" shape="box" x1="321.256409" y1="6.857910" z1="1390.126343" x2="361.256409" y2="11.857910" z2="1410.126343" rotX="-0.000000" rotY="0.000000" rotZ="0.000000" />
+<AreaDefinition id="2247008259" name="sphere_2247008258" shape="sphere" x1="341.950745" y1="0.000000" z1="1401.561279" radius="32.000000" />
+<AreaDefinition id="2869853491" name="sphere_2869853490" shape="sphere" x1="127.572792" y1="106.906433" z1="2361.418213" radius="12.000000">
+    <Property type="Exclusive" id="3614730547" />
+</AreaDefinition>
+<AreaDefinition id="1335835427" name="sphere_1335835426" shape="sphere" x1="188.029160" y1="78.456299" z1="2380.471436" radius="15.000000">
+    <Property type="Exclusive" id="2384671872" />
+</AreaDefinition>
+<AreaDefinition id="4100412206" name="box_4100412205" shape="box" x1="242.817871" y1="66.814728" z1="2080.447266" x2="245.077881" y2="89.874786" z2="2082.637207" rotX="-0.000000" rotY="-0.017453" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="4100412208" name="sphere_4100412207" shape="sphere" x1="245.975250" y1="64.141403" z1="2082.503174" radius="41.019966">
+    <Property type="Exclusive" id="2400221953" />
+    <Property type="Exclusive" id="1792129781" />
+</AreaDefinition>
+<AreaDefinition id="4100412204" name="box_4100412203" shape="box" x1="246.617218" y1="66.814728" z1="2080.440918" x2="248.877228" y2="89.874786" z2="2082.630859" rotX="-0.000000" rotY="3.124139" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="464494403" name="sphere_464494402" shape="sphere" x1="202.656021" y1="0.000000" z1="2156.749023" radius="22.000000">
+    <Property type="Exclusive" id="627011059" />
+</AreaDefinition>
+<AreaDefinition id="2543654108" name="sphere_2543654107" shape="sphere" x1="231.551392" y1="92.166260" z1="2235.976563" radius="28.000000">
+    <Property type="Exclusive" id="3922072368" />
+</AreaDefinition>
+<AreaDefinition id="3128318135" name="sphere_3128318134" shape="sphere" x1="240.825623" y1="66.030006" z1="2331.986572" radius="12.000000">
+    <Property type="Exclusive" id="3614730547" />
+</AreaDefinition>
+<AreaDefinition id="2864210695" name="sphere_2864210694" shape="sphere" x1="284.720032" y1="71.581680" z1="2330.978271" radius="20.000000">
+    <Property type="Exclusive" id="2415553251" />
+</AreaDefinition>
+<AreaDefinition id="4100412200" name="box_4100412199" shape="box" x1="345.194305" y1="66.814728" z1="2080.500488" x2="347.454315" y2="89.874786" z2="2082.690430" rotX="-0.000000" rotY="-0.017453" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="4100412198" name="box_4100412197" shape="box" x1="348.994110" y1="66.814728" z1="2080.494629" x2="351.254120" y2="89.874786" z2="2082.684570" rotX="-0.000000" rotY="3.124139" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4100412202" name="sphere_4100412201" shape="sphere" x1="347.924347" y1="64.141403" z1="2082.503174" radius="41.019966">
+    <Property type="Exclusive" id="2400221953" />
+    <Property type="Exclusive" id="1792129781" />
+</AreaDefinition>
+<AreaDefinition id="1533286990" name="sphere_1533286989" shape="sphere" x1="330.499512" y1="70.664284" z1="2203.732178" radius="25.000000">
+    <Property type="Exclusive" id="1455026464" />
+</AreaDefinition>
+<AreaDefinition id="1436025784" name="sphere_1436025783" shape="sphere" x1="328.574463" y1="115.537964" z1="2374.943604" radius="41.019966">
+    <Property type="Exclusive" id="2400221953" />
+    <Property type="Exclusive" id="1792129781" />
+    <Property type="Exclusive" id="793152051" />
+</AreaDefinition>
+<AreaDefinition id="1436025780" name="box_1436025779" shape="box" x1="330.601196" y1="120.599335" z1="2373.533447" x2="332.851196" y2="141.099335" z2="2375.783447" rotX="-0.000000" rotY="2.809980" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="3584038954" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="1436025782" name="box_1436025781" shape="box" x1="325.717346" y1="120.599335" z1="2371.842285" x2="327.967346" y2="141.099335" z2="2374.092285" rotX="-0.000000" rotY="-0.331613" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="3584038954" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="1299282184" name="box_1299282183" shape="box" x1="738.108215" y1="-43.186035" z1="2375.168457" x2="740.108215" y2="46.813965" z2="2377.168457" rotX="1.570796" rotY="-1.570796" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="1807052182" VelocityMult="5.00" />
+</AreaDefinition>
+<AreaDefinition id="3998626149" name="box_3998626148" shape="box" x1="1943.451538" y1="0.278809" z1="3516.254883" x2="1945.451538" y2="2.278809" z2="3518.254883" rotX="-0.000000" rotY="0.000000" rotZ="0.000000">
+    <Property type="Thrust - Chain" id="4269053187" VelocityMult="2.00" JumpHeight="20.00" FacSpawnId="242487" ReqSetId="36" NextChainId="4269053189" />
+</AreaDefinition>
+<AreaDefinition id="4269053189" name="box_4269053188" shape="box" x1="1952.927124" y1="-0.713623" z1="3516.174805" x2="1954.927124" y2="1.286377" z2="3518.174805" rotX="-0.000000" rotY="0.000000" rotZ="0.000000">
+    <Property type="Thrust - Chain" id="4269053187" VelocityMult="2.00" JumpHeight="20.00" FacSpawnId="0" ReqSetId="0" NextChainId="0" />
+</AreaDefinition>
+<AreaDefinition id="4270927054" name="sphere_4270927053" shape="sphere" x1="1692.976807" y1="0.044844" z1="3789.030762" radius="28.000000">
+    <Property type="Exclusive" id="3922072368" />
+</AreaDefinition>
+<AreaDefinition id="4270927026" name="box_4270927025" shape="box" x1="1777.635132" y1="0.293989" z1="3772.857910" x2="1780.135132" y2="25.293989" z2="3775.357910" rotX="-0.000000" rotY="-3.926991" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927028" name="box_4270927027" shape="box" x1="1780.581421" y1="0.293989" z1="3769.911377" x2="1783.081421" y2="25.293989" z2="3772.411377" rotX="-0.000000" rotY="-0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2155879369" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927022" name="box_4270927021" shape="box" x1="1790.556274" y1="0.125716" z1="3767.175781" x2="1793.056274" y2="10.125715" z2="3769.675781" rotX="-0.000000" rotY="-0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927058" name="sphere_4270927057" shape="sphere" x1="1783.010742" y1="1.133223" z1="3839.934326" radius="1.000000">
+    <Property type="Interaction" id="270638047" ProxyID="242316" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="4270927060" name="sphere_4270927059" shape="sphere" x1="1783.010742" y1="1.133223" z1="3825.053711" radius="1.000000">
+    <Property type="Interaction" id="270638047" ProxyID="242314" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="4270927024" name="box_4270927023" shape="box" x1="1790.089478" y1="0.125716" z1="3895.462402" x2="1792.589478" y2="10.125715" z2="3897.962402" rotX="-0.000000" rotY="0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927032" name="box_4270927031" shape="box" x1="1780.308838" y1="0.172590" z1="3892.956543" x2="1782.808838" y2="25.172590" z2="3895.456543" rotX="-0.000000" rotY="-2.347468" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2155879369" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927030" name="box_4270927029" shape="box" x1="1777.520508" y1="0.172590" z1="3889.859619" x2="1780.020508" y2="25.172590" z2="3892.359619" rotX="-0.000000" rotY="0.794125" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="1297529652" name="box_1297529652" shape="box" x1="1841.870605" y1="6.055454" z1="3705.055420" x2="1844.120605" y2="26.555454" z2="3707.305420" rotX="-0.000000" rotY="-3.141593" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="1297529653" name="box_1297529653" shape="box" x1="1836.684326" y1="6.055454" z1="3705.044434" x2="1838.934326" y2="26.555454" z2="3707.294434" rotX="-0.000000" rotY="0.000000" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="1297529655" name="sphere_1297529655" shape="sphere" x1="1840.430664" y1="0.938033" z1="3706.762695" radius="41.019966">
+    <Property type="Exclusive" id="2400221953" />
+    <Property type="Exclusive" id="1792129781" />
+</AreaDefinition>
+<AreaDefinition id="4270927062" name="sphere_4270927061" shape="sphere" x1="1851.082397" y1="14.661115" z1="3767.051758" radius="30.000000">
+    <Property type="Exclusive" id="2890131875" />
+</AreaDefinition>
+<AreaDefinition id="4270927052" name="sphere_4270927051" shape="sphere" x1="1806.886108" y1="-0.145430" z1="3777.055908" radius="15.000000">
+    <Property type="Exclusive" id="3482765952" />
+</AreaDefinition>
+<AreaDefinition id="4270927046" name="sphere_4270927045" shape="sphere" x1="1844.929688" y1="0.306258" z1="3905.376465" radius="22.000000">
+    <Property type="Exclusive" id="627011059" />
+</AreaDefinition>
+<AreaDefinition id="1297529650" name="box_1297529650" shape="box" x1="1836.459473" y1="5.948643" z1="3958.546875" x2="1838.709473" y2="26.448643" z2="3960.796875" rotX="-0.000000" rotY="-0.008727" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="1297529651" name="box_1297529651" shape="box" x1="1841.645630" y1="5.948643" z1="3958.603516" x2="1843.895630" y2="26.448643" z2="3960.853516" rotX="-0.000000" rotY="-3.150319" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2187839348" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="1297529654" name="sphere_1297529654" shape="sphere" x1="1840.154175" y1="0.831221" z1="3959.111816" radius="41.019966">
+    <Property type="Exclusive" id="2400221953" />
+    <Property type="Exclusive" id="1792129781" />
+</AreaDefinition>
+<AreaDefinition id="4270927038" name="box_4270927037" shape="box" x1="1897.618286" y1="0.172407" z1="3769.907715" x2="1900.118286" y2="25.172407" z2="3772.407715" rotX="-0.000000" rotY="0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927040" name="box_4270927039" shape="box" x1="1900.460083" y1="0.172407" z1="3772.954346" x2="1902.960083" y2="25.172407" z2="3775.454346" rotX="-0.000000" rotY="-2.356194" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2155879369" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927014" name="box_4270927013" shape="box" x1="1887.546753" y1="0.125716" z1="3766.996826" x2="1890.046753" y2="10.125715" z2="3769.496826" rotX="-0.000000" rotY="-2.356194" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927064" name="sphere_4270927063" shape="sphere" x1="1894.658691" y1="11.173872" z1="3827.171143" radius="1.000000">
+    <Property type="Interaction" id="270638047" ProxyID="242315" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="4270927044" name="sphere_4270927043" shape="sphere" x1="1894.687500" y1="10.997419" z1="3837.978271" radius="1.000000">
+    <Property type="Interaction" id="270638047" ProxyID="242317" Immunity="1" />
+</AreaDefinition>
+<AreaDefinition id="4270927012" name="box_4270927011" shape="box" x1="1900.963379" y1="0.034711" z1="3890.245117" x2="1903.463379" y2="25.034710" z2="3892.745117" rotX="-0.000000" rotY="-0.785398" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2155879369" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927016" name="box_4270927015" shape="box" x1="1898.017090" y1="0.034711" z1="3893.191650" x2="1900.517090" y2="25.034710" z2="3895.691650" rotX="-0.000000" rotY="-3.926991" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="-1.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927042" name="box_4270927041" shape="box" x1="1887.909790" y1="0.125716" z1="3895.745605" x2="1890.409790" y2="10.125715" z2="3898.245605" rotX="-0.000000" rotY="-3.926991" rotZ="0.000000">
+    <Property type="Thrust - No Gravity" id="2618975674" VelocityMult="2.00" />
+</AreaDefinition>
+<AreaDefinition id="4270927050" name="sphere_4270927049" shape="sphere" x1="1874.193726" y1="0.017135" z1="3882.016113" radius="15.000000">
+    <Property type="Exclusive" id="262810547" />
+</AreaDefinition>
+<AreaDefinition id="4017103825" name="sphere_4017103824" shape="sphere" x1="2915.210938" y1="120.799995" z1="715.624695" radius="15.000000">
+    <Property type="Exclusive" id="2384671872" />
+</AreaDefinition>
